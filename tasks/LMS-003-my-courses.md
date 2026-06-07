@@ -8,7 +8,8 @@ Students need a simple place to review the courses they have enrolled in.
 
 ## Related context
 - Specs:
-  - `/specs/lms-mvp.md`
+  - `/specs/lms-rfp.md`
+  - `/specs/lms-spec.md`
 - ADRs:
   - `/adrs/ADR-0001-architecture-style.md`
   - `/adrs/ADR-0002-tech-stack.md`

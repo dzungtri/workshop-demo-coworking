@@ -12,12 +12,12 @@ Use this when reviewing a Pull Request.
 - API contracts
 
 ## Checklist
-- [ ] Matches task goal
-- [ ] Follows ADRs
-- [ ] Tests exist and pass
-- [ ] No unnecessary scope creep
-- [ ] No contract breaking change
-- [ ] Code is readable and consistent
+- `[ ]  Matches task goal`
+- `[ ]  Follows ADRs`
+- `[ ]  Tests exist and pass`
+- `[ ]  No unnecessary scope creep`
+- `[ ]  No contract breaking change`
+- `[ ]  Code is readable and consistent`
 
 ## Workflow
 1. Use GitHub MCP to inspect PR.

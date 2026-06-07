@@ -8,7 +8,8 @@ Students must authenticate with demo credentials before accessing courses or enr
 
 ## Related context
 - Specs:
-  - `/specs/lms-mvp.md`
+  - `/specs/lms-rfp.md`
+  - `/specs/lms-spec.md`
 - ADRs:
   - `/adrs/ADR-0001-architecture-style.md`
   - `/adrs/ADR-0002-tech-stack.md`

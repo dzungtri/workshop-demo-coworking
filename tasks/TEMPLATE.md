@@ -14,7 +14,11 @@ Why is this task needed?
 
 ## Related context
 - Specs:
-  - `/specs/...`
+  - `/specs/product-vision.md`
+  - `/specs/domains.md`
+  - `/specs/user-roles.md`
+  - `/specs/features.md`
+  - `/specs/api-contracts.md`
 - ADRs:
   - `/adrs/...`
 - Contracts:
@@ -54,4 +58,3 @@ Then:
 5. Update this task status.
 6. Commit using format: `<TASK-ID>: <short description>`.
 7. Create PR using GitHub MCP.
-
